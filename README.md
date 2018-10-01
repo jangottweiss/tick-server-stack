@@ -1,1 +1,1 @@
-# tick-server-stack
+# TICK Server Stack
